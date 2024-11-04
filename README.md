@@ -1,14 +1,14 @@
 ## Hi there 👋
 ### 專長
-: 經濟學\
-: 財務管理
+ 經濟學\
+ 財務管理
 
 ### 經歷 
-: 輔仁大學經濟系學士\
-: 台灣青年兩岸關係研習生
+ 輔仁大學經濟系學士\
+ 台灣青年兩岸關係研習生
 
 ### 信箱
-:twyang@gis-taiwan.ntu.edu.tw
+twyang@gis-taiwan.ntu.edu.tw
 <!--
 **David-YG/David-YG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
